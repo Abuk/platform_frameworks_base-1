@@ -65,4 +65,9 @@
 
     <!-- Vendor mismatched fingerprint warning [CHAR LIMIT=NONE] -->
     <string name="system_error_vendorprint">Your vendor image does not match the system. Please flash the <xliff:g id="string">%s</xliff:g> vendor image for your device</string>
+
+    <!-- SOFTAP framework  -->
+    <string name="tethered_notification_no_device_message">No connected device</string>
+    <string name="tethered_notification_one_device_message"><xliff:g id="count">%1$s</xliff:g> connected device</string>
+    <string name="tethered_notification_multi_device_message"><xliff:g id="count">%1$s</xliff:g> connected devices</string>
 </resources>
